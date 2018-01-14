@@ -1,0 +1,2 @@
+# pythonWay
+study on python
